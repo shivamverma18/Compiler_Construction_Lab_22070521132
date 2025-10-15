@@ -51,13 +51,6 @@ To study and write a theoretical assignment explaining the structure, purpose, a
 %%
   // C code
 
-```
-### 🔹 Conclusion:
-- Gained an understanding of how LEX and YACC automate the process of lexical and syntax analysis in compiler design.
-- Understood how to define tokens and grammar rules, and how they interact during compilation.
-- Learned that combining LEX and YACC simplifies the development of interpreters and compilers.
-
----
 
 ## 🖼️ Screenshots:
 
@@ -69,5 +62,11 @@ To study and write a theoretical assignment explaining the structure, purpose, a
 ### 🔹 Output
 ![output](https://github.com/user-attachments/assets/147eac6b-22e2-493a-84b2-bc29b30478b9)
 
+
+```
+### 🔹 Conclusion:
+- Gained an understanding of how LEX and YACC automate the process of lexical and syntax analysis in compiler design.
+- Understood how to define tokens and grammar rules, and how they interact during compilation.
+- Learned that combining LEX and YACC simplifies the development of interpreters and compilers.
 
 ---
