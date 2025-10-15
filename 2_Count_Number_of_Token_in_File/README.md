@@ -35,14 +35,11 @@ Lexical Analysis is the first phase of a compiler that reads the source program 
 ## 🖼️ Screenshots
 
 ### 🔹 Code (LEX Program)
-![Code Screenshot](https://github.com/PrathamAgrawal51/Compiler_Construction_Lab_22070521078/blob/8844162c0d930c201d0a4ffd8f3be36430daa79f/2_Count_Number_of_Token_in_File/Screenshots/code.png)
+![code](https://github.com/user-attachments/assets/a5169416-4f5e-4a30-8555-1a4658ed438f)
 
-### 🔹 Terminal (Running the LEX Program)
-![Terminal Screenshot](https://github.com/PrathamAgrawal51/Compiler_Construction_Lab_22070521078/blob/8844162c0d930c201d0a4ffd8f3be36430daa79f/2_Count_Number_of_Token_in_File/Screenshots/terminal.png)
 
 ### 🔹 Output (Token Counts Displayed)
-![Output Screenshot](https://github.com/PrathamAgrawal51/Compiler_Construction_Lab_22070521078/blob/8844162c0d930c201d0a4ffd8f3be36430daa79f/2_Count_Number_of_Token_in_File/Screenshots/output.png)
-
+![output](https://github.com/user-attachments/assets/8f824c34-90f7-4e8a-9132-096073c6122e)
 
 ---
 
