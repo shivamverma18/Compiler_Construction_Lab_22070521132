@@ -53,7 +53,7 @@ To study and write a theoretical assignment explaining the structure, purpose, a
 
 
 ## 🖼️ Screenshots:
-
+```
 ### 🔹 Code
 ![code](https://github.com/user-attachments/assets/48d1644e-3e5d-4d95-af09-95f6503301a7)
 
