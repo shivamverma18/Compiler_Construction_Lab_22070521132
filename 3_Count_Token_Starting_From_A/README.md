@@ -34,13 +34,12 @@ This rule increments the count whenever a word starting with 'A' or 'a' is detec
 ## 🖼️ Screenshots
 
 ### 🔹 Code
-![Code Screenshot](https://github.com/PrathamAgrawal51/Compiler_Construction_Lab_22070521078/blob/06978a6e0ceefbb86bed378a985dc141ceca08db/3_Count_Token_Starting_From_A/Screenshots/code.png)
+![code](https://github.com/user-attachments/assets/c0aeab4b-db83-4673-9073-8443abcd1a4b)
 
-### 🔹 Output 1
-![Terminal Screenshot](https://github.com/PrathamAgrawal51/Compiler_Construction_Lab_22070521078/blob/06978a6e0ceefbb86bed378a985dc141ceca08db/3_Count_Token_Starting_From_A/Screenshots/output1.png)
 
 ### 🔹 Output 2
-![Output Screenshot](https://github.com/PrathamAgrawal51/Compiler_Construction_Lab_22070521078/blob/06978a6e0ceefbb86bed378a985dc141ceca08db/3_Count_Token_Starting_From_A/Screenshots/output2.png)
+![output](https://github.com/user-attachments/assets/ec4c332a-c5e3-4184-81e5-0f2f3454db67)
+
 
 ---
 
@@ -49,5 +48,6 @@ This rule increments the count whenever a word starting with 'A' or 'a' is detec
 - Successfully implemented a LEX program to count all words beginning with the letter **'A'** or **'a'**.
 - Understood how regular expressions are used for pattern recognition in lexical analysis.
 - Practiced developing simple lexical analyzers for token-based word analysis.
+
 
 ---
