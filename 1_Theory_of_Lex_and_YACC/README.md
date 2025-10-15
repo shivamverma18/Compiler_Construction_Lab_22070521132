@@ -52,22 +52,21 @@ To study and write a theoretical assignment explaining the structure, purpose, a
   // C code
 
 ```
+
+
+## 🖼️ Screenshots:
+
+## 🔹 Code
+#![code](https://github.com/user-attachments/assets/ae29c6f6-ed38-463e-96ed-e55751f9f861)
+
+### 🔹 Output
+![output](https://github.com/user-attachments/assets/a114a2d4-2f69-4a5a-b867-9adb044729ff)
+
+
+---
 ### 🔹 Conclusion:
 - Gained an understanding of how LEX and YACC automate the process of lexical and syntax analysis in compiler design.
 - Understood how to define tokens and grammar rules, and how they interact during compilation.
 - Learned that combining LEX and YACC simplifies the development of interpreters and compilers.
-
----
-
-## 🖼️ Screenshots:
-
-### 🔹 Code
-![Code](https://github.com/PrathamAgrawal51/Compiler_Construction_Lab_22070521078/blob/723442ff172afa70df0886d43d01162a9e191ea8/1_Theory_of_Lex_and_YACC/Screenshots/code.png)
-
-### 🔹 Commands
-![Code](https://github.com/PrathamAgrawal51/Compiler_Construction_Lab_22070521078/blob/c19698eba6ee4960ebc1ad56da897eb69be28211/1_Theory_of_Lex_and_YACC/Screenshots/terminal.png)
-
-### 🔹 Output
-![Code](https://github.com/PrathamAgrawal51/Compiler_Construction_Lab_22070521078/blob/c19698eba6ee4960ebc1ad56da897eb69be28211/1_Theory_of_Lex_and_YACC/Screenshots/output.png)
 
 ---
